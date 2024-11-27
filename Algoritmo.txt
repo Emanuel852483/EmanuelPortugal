@@ -9,7 +9,7 @@ ler n;
 enquanto n>1 faz{
 	n = (r + a);
 		se (n>1){
-			n =(r+a);
+			n =(r*2+a*2);
 		}
 }
 fim
